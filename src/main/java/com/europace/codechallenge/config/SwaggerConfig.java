@@ -31,7 +31,7 @@ public class SwaggerConfig {
     private ApiInfo apiInfo() {
         return new ApiInfo(
                 "Code challenge Europace Example Offer Api",
-                "Calculates example offers based on financing infos (mocked)",
+                "Calculates example offers based on financing applicant's infos (mocked)",
                 "1.0",
                 "manu's terms of service url...",
                 new Contact("Manuel Zach", "www.manu.com", "zach@informatik-hu-berlin.de"),
